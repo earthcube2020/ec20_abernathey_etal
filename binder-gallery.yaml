@@ -2,7 +2,7 @@
 name: Cloud Storage Benachmarks
 description: >-
   Investigation of the throughput of various cloud storage formats and
-  services. Prepared for the 2020 EarthCube Meeting by Ryan Abernathey.
+  services. Prepared for the 2020 EarthCube Meeting.
 gallery_repository: pangeo-gallery/pangeo-gallery
 binder_url: "https://binder.pangeo.io"
 binder_repo: pangeo-gallery/default-binder
