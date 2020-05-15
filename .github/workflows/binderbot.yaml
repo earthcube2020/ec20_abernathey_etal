@@ -56,6 +56,7 @@ jobs:
           --binder-url ${{ steps.parse.outputs.binder_url }} \
           --repo ${{ steps.parse.outputs.binder_repo }} \
           --ref ${{ steps.parse.outputs.binder_ref }} \
+          --nb-timeout 3000
           *.ipynb
       - name: Commit files
         if: github.ref == 'refs/heads/master'
