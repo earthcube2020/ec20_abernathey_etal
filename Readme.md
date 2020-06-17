@@ -9,6 +9,8 @@ It is configured to automatically build itself using GitHub actions and
 
 A statically rendered version is available here:
 - <http://gallery.pangeo.io/repos/earthcube2020/ec20_abernathey_etal/cloud_storage.html>
-- An interactive Binder is here: https://binder.pangeo.io/v2/gh/pangeo-gallery/default-binder/master/?urlpath=git-pull?repo=https://github.com/earthcube2020/ec20_abernathey_etal%26amp%3Burlpath=lab/tree/ec20_abernathey_etal/cloud_storage.ipynb%3Fautodecode
 
-The code is open-source MIT License.
+An interactive Binder is here:
+- [![binder](https://mybinder.org/badge_logo.svg?style=flat-square)](https://binder.pangeo.io/v2/gh/pangeo-gallery/default-binder/master/?urlpath=git-pull?repo=https://github.com/earthcube2020/ec20_abernathey_etal%26amp%3Burlpath=lab/tree/ec20_abernathey_etal/cloud_storage.ipynb%3Fautodecode)
+
+The code is licensed via the open-source MIT License.
