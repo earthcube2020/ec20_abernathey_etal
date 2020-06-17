@@ -1,20 +1,14 @@
-# Pangeo Gallery Template
+# Pangeo Cloud Storage Benachmarks
 
-This repository stores an example gallery repo for the Pangeo Gallery.
-It is configured to automatically build itself using
+Investigation of the throughput of various cloud storage formats and services.
+Prepared for the 2020 EarthCube Meeting by Ryan Abernathey.
+
+This repository is configured for [Pangeo Gallery](http://gallery.pangeo.io/).
+It is configured to automatically build itself using GitHub actions and
 [binderbot](https://github.com/pangeo-gallery/binderbot).
-It is linked, via a git submodule, the the
-[gallery website repo](https://github.com/pangeo-gallery/pangeo-gallery).
-Whenever the notebooks are updated in this, repository
-dispatch is used to trigger a gallery rebuild. This keeps
-[gallery.pangeo.io](http://gallery.pangeo.io) always in sync with this repo.
 
-The repo contains the following elements:
+A statically rendered version is available here:
+- <http://gallery.pangeo.io/repos/earthcube2020/ec20_abernathey_etal/cloud_storage.html>
+- An interactive Binder is here: https://binder.pangeo.io/v2/gh/pangeo-gallery/default-binder/master/?urlpath=git-pull?repo=https://github.com/earthcube2020/ec20_abernathey_etal%26amp%3Burlpath=lab/tree/ec20_abernathey_etal/cloud_storage.ipynb%3Fautodecode
 
-- A set of jupyter notebooks, numbered in the order that we want them to
-  appear on the gallery website.
-- A configuration file, `binder-gallery.yaml`, which provides important
-  configuration parameters (see [pangeo gallery documentation](http://gallery.pangeo.io)).
-- A thumbnail image (`thumbnail.png`), a 200 x 200 px image which represents
-  the gallery content.
-- Github workflows, which make the magic happen! (Don't touch these.)
+The code is open-source MIT License.
