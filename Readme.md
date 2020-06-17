@@ -1,4 +1,4 @@
-# Pangeo Cloud Storage Benachmarks
+# Pangeo Cloud Storage Benchmarks
 
 Investigation of the throughput of various cloud storage formats and services.
 Prepared for the 2020 EarthCube Meeting by Ryan Abernathey.
