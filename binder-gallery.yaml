@@ -1,5 +1,5 @@
 ---
-name: Cloud Storage Benachmarks
+name: Cloud Storage Benchmarks
 description: >-
   Investigation of the throughput of various cloud storage formats and 
   services. Prepared for the 2020 EarthCube Meeting by Ryan Abernathey.
