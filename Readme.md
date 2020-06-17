@@ -5,7 +5,7 @@ Prepared for the 2020 EarthCube Meeting by Ryan Abernathey.
 
 This repository is configured for [Pangeo Gallery](http://gallery.pangeo.io/).
 It is configured to automatically build itself using GitHub actions and
-[binderbot](https://github.com/pangeo-gallery/binderbot).
+[binderbot](https://github.com/pangeo-gallery/binderbot): [![Binderbot](https://github.com/earthcube2020/ec20_abernathey_etal/workflows/Binderbot/badge.svg)](https://github.com/earthcube2020/ec20_abernathey_etal/actions?query=workflow%3ABinderbot)
 
 A statically rendered version is available here:
 - <http://gallery.pangeo.io/repos/earthcube2020/ec20_abernathey_etal/cloud_storage.html>
